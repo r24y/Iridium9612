@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For Iridium9612 library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Iridium KEYWORD1
+checksum KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+now     KEYWORD2
+second KEYWORD2
+minute  KEYWORD2
+hour KEYWORD2
+day KEYWORD2
+month KEYWORD2
+year KEYWORD2
+isAM KEYWORD2
+isPM KEYWORD2
+weekday KEYWORD2
+setTime KEYWORD2
+adjustTime KEYWORD2
+setSyncProvider KEYWORD2
+setSyncInteval KEYWORD2
+timeStatus KEYWORD2
+loadBuffer KEYWORD2
+conductSBDSession KEYWORD2
+attention KEYWORD2
+setRadio KEYWORD2
+setTimeout KEYWORD2
+begin KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+IRIDIUM_DATA_RATE LITERAL1
